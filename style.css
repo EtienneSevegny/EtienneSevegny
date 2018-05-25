@@ -1,0 +1,51 @@
+body
+{
+    background-color: #818181;
+}
+.carousel-inner
+{
+    height: 25%;
+}
+.col-xl-8
+{
+    text-align: center;
+}
+.col-xl-6
+{
+    text-align: center;
+}
+.col-md-4
+{
+    text-align:center;
+}
+.forms
+{
+    text-align:center;
+    padding-top: 2%;
+    align : center;
+    padding-bottom:10%;
+}
+.grey
+{
+    border-radius: 25px;
+    margin: 1%;
+    padding: 1%;
+    background-color: darkgrey;
+}
+.grey2
+{
+
+    padding: 1%;
+    background-color: darkgrey;
+}
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 102%;
+}
+.photo:hover
+{
+
+    height: 700px;
+}
